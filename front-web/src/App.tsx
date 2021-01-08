@@ -1,11 +1,13 @@
 import './App.css';
+import NavBar from './NavBar'
+
 
 
 function App(){
 
     return(
         <div>
-            alo mundo
+           <NavBar/>
         </div>
 
     )
