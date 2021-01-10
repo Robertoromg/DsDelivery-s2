@@ -8,3 +8,9 @@ export type Product={
     
 
 }
+
+export type OrderLocationData ={
+        latitude: number;
+        longitude: number;
+        address: string;
+}
