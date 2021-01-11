@@ -1,7 +1,6 @@
 .home-container {
     padding-top: 100px;
     height: calc(100vh - 254px);
-  
   }
   
   .home-container h1 {
@@ -50,11 +49,11 @@
     background-color: var(--primary-hover-color);
     transform: scale(1.01);
   }
-  
+  /*
   .home-image svg {
     width: 100% !important;
   }
-  
+  */
   @media only screen and (max-width: 768px) {
     .home-container {
       height: auto;
@@ -92,6 +91,5 @@
     .home-container {
       height: auto;
       margin-bottom: 30px;
-
     }
   }
